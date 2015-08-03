@@ -14,10 +14,10 @@ en:
       confirmed_contributions: 'Confirmed contributions'
       created_projects: 'Created projects'
   site:
-    description: O Catarse é a primeira e maior plataforma de crowdfunding, ou financiamento coletivo, do Brasil. Venha tirar projetos do papel!
-    keywords: crowdfunding, financiamento coletivo, projeto, catarse, comunidade, open source
+    description: Catharsis is the first and largest crowdfunding, or collective funding platform, of Brazil. Take part in a project!
+    keywords: crowdfunding, collective funding, projects, catarse, community, open source
     meta_title: "%{title} · %{company_name}"
-    title: Crowdfunding e financiamento coletivo no Brasil é no Catarse
+    title: Crowdfunding and collective funding in Brasil is on Catarse
     # TODO: Change these if you're building a new site!
   login:
     forgot_password:
@@ -104,7 +104,7 @@ en:
       near: "Near me"
       expiring: "Expiring"
       recents: "Recent"
-      submit: "Send your project"
+      submit: "Submit your project"
       discover: "Discover projects"
     texts:
       copyleft: "Made with love."
@@ -328,7 +328,7 @@ en:
       signup: "Sign up"
       signin: Login
       discover: Discover
-      submit: Send your project
+      submit: Submit your project
       profile: "My profile"
       account: "My account"
     user:

@@ -1,0 +1,54 @@
+en:
+  pages:
+    hello:
+      page-title: "Learn more"
+      hero:
+        title: "Get project ideas!"
+        people_html: "People who have supported at least <br>1 Catarse project"
+        projects_html: "Catarse projects that have already <br>been financed"
+        money_html: "Donated to projects <br>published here"
+        success: "Catarse projects that have already been funded"
+        money: "Donated for projects funded here"
+      idea:
+        title: "It all starts with a project!"
+        subtitle: "But having a project isn't enough. You must have access to the people and resources needed to turn it into reality."
+      fund:
+        title: "Collective Funding"
+        subtitle: "In Catharsis, this is possible. Directors of various categories connect to supporters interested in contributing with small donations."
+      campaign:
+        title: "Campaigns"
+        subtitle: "Directors have up to 60 days to capture the financial goal determined for the project to happen. In exchange for support, provide creative rewards."
+      allornothing:
+        title: "All or nothing!"
+        subtitle: "The goal is to hit the target within the time limit for receiving the amount collected, or all supporters receive their money back. The secret is to plan your campaign!"
+      success:
+        title: "The project comes to fruition"
+        subtitle: "Supporters want to see the project happen. With the success of the campaign, filmmakers produce the project and prepare the delivery of rewards to the supporters!"
+      cta:
+        title: "See Catarse in action"
+        backer-cta: "Become a supporter, help people, and receive exclusive rewards"
+        backer-link: "Support a project"
+        maker-cta: "As a director, show your project to the world and raise money"
+        maker-link: "Start your project"
+      testimonial:
+        humberto:
+          text_html: "&#8220; It's a fascinating opportunity to be invited to share the dream of a person and still receive a reward for the experience. &#8221;"
+          name: "Humberto Figueira"
+          credentials: "supported more than 150 Catarse projects"
+      details:
+        fund:
+          title: "Collective Financing or Crowdfunding?"
+          text: "Two names for the same practice, in which people contribute small amounts for projects."
+        allornothing:
+          title: "Why all or nothing?"
+          text_html: "We believe in the &#8220;all or nothing&#8221; model: campaigns raise more, and it ensures that a project will only happen if it can be delivered as described and promised the supporters."
+        services:
+          title: "Our services"
+          text: "Catarse provides support to users of the site and makes it possible to capture projects in an agile and direct way using the internet. Any person above 18 years (or less, but with a legal representative) can use our services and do a crowdfunding campaign, if the project meets our selection criteria."
+        fees:
+          title: "How we support"
+          text: "We charge 13% on the total value of projects that have reached or surpassed the target of revenue collection. We get about 9%, and 4% is passed to Pagar.me, the means of payment used in Catarse. Projects that did not reach their goal have no cost, and all supporters receive their money back."
+        work:
+          title: "We work with purpose and love"
+          text: "Catharse is independent, with no investors, open source, and built with love. Our passion is to build an environment where more and more projects can come to life. Today we are a team of 23 people with a great desire to help distribute more resources to projects throughout Brazil."
+      staff: "These are a few of the people waiting for you to create a project..."

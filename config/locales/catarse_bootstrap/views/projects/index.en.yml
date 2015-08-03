@@ -1,0 +1,71 @@
+en:
+  projects:
+    index_header:
+      subtitle: Finance projects collaboratively and become part of something bigger.
+        Promote a collective catharsis! You're the missing piece in this story.
+      title: Make the projects that you believe in happen
+    index:
+      title: 'Catarse'
+      back_a_project: 'Support a project'
+      banner_before: 'Find '
+      banner_words:
+        0: 'dreams'
+        1: 'discs'
+        2: 'exhibitions'
+        3: 'research'
+        4: 'carnivals'
+        5: 'photographs'
+        6: 'theater performances'
+        7: 'documentaries'
+        8: 'books'
+        9: 'shows'
+        10: 'passions'
+        11: 'meetings'
+        12: 'music'
+        13: 'products'
+        14: 'attitudes'
+        15: 'films'
+        16: 'comics'
+        17: 'ideas'
+      banner_after: ' here'
+      see_all: 'See all'
+      near_you: 'Near you'
+      recents: Recent
+      blog: Catarse Blog
+      expiring: Expiring
+      recommended: Recommended
+      banner_subtitle: 'Music, comics, cinema, social impact, technology and more. Check out, inspire and support projects.'
+      box:
+        by: by
+        when: when
+      banner: "Meet the goal"
+      explore: "Explore projects"
+      links:
+        channels: "Discover channels"
+        recommended: "Discover recomended projects"
+        expiring: "Discover projects that are nearly finished"
+        recents: "Discover recent projects"
+        near: "Discover projects near you"
+      sidebar:
+        titles:
+          blog: blog
+          facebook: "Already like us on Facebook?"
+          newsletter: "Subscribe to our newsletter"
+          faq: "need help?"
+          schedule: schedule
+        placeholders:
+          email: "Enter your email"
+        buttons:
+          newsletter: Send
+      sections:
+        near:
+          title: 'Near me'
+        recommended:
+          title: 'Recommended'
+        expiring:
+          title: "Expiring"
+        recents:
+          title: "Recents"
+        channels:
+          title: 'Channels'
+

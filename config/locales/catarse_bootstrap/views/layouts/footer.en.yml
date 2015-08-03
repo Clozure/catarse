@@ -1,0 +1,35 @@
+en:
+  layouts:
+    footer:
+      links:
+        jobs: Work with us
+        blog: Blog
+        contact: Contact
+        press: Press
+        discover: Explore projects
+        start: 'How it works'
+        expiring: Nearly finished
+        facebook: Facebook
+        crowdfunding_stats: "Brazil crowdfunding stats 2013/2014"
+        faq: FAQ
+        guides: Board of Directors
+        feedback: Feedback
+        github: GitHub
+        instagram: Instagram
+        near: Near you
+        press: Press
+        privacy: Privacy policy
+        recents: Recent
+        recommended: Recommended
+        submit: Submit your project
+        terms: Terms of use
+        twitter: Twitter
+      texts:
+        copyleft: Made with love.
+      titles:
+        about: About
+        contact: Welcome
+        newsletter: Subscribe to our newsletter
+        sitemap: Site map
+        social: Social networks
+

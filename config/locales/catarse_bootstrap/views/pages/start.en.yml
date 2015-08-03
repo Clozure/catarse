@@ -1,0 +1,28 @@
+en:
+  pages:
+    start:
+      page-title: "How does Catarse work?"
+      title: "Finance your project collectively"
+      submit: "Start your project"
+      learn-more: "Lean more"
+      header:
+        people: "People who have supported at least 1 Catarse project"
+        success: "Catarse projects that have already been financed"
+        money: "Donated to projects published here"
+      start:
+        title: "Start your project"
+        content: "It is important to start somewhere. A good first step to turning your idea into a collective financing project is to register a draft in Catarse. We're here to help."
+        link: "Learn more about the first steps of a project"
+      people:
+        title: "Study and plan"
+        content: "Produce your project with care, at the right time. Planning a good campaign is a decisive factor for the success of its collective funding. We offer a variety of materials to assist you!"
+        link: "Learn how many supporters you need to mobilize"
+      work:
+        title: "It's All or Nothing"
+        content: "You set the goal of fundraising and campaign time. Choose between 1 and 60 days to conduct your campaign in search of supporters. If you achieve your financial goal, you keep the amount collected. Otherwise all who supported receive their money back. We charge a fee of 13% of the total collected on only projects that have reached or surpassed their goal."
+        link: "Get tips on successful Catarse campaigns"
+      time:
+        title: "Mobilize supporters"
+        content: "Communicate well during your campaign and be nice to your supporters. They are the strength of your project and are who will really determine the success or failure of your campaign. Catarse is a way to approach people who love their work, and who will expand this network."
+        link: "Learn how our fee helps Catarse"
+        
