@@ -5,7 +5,7 @@
 //= require replace-diacritics
 //= require catarse-helpers
 //= require api/init
-//= require catarse_admin
+//= require catarse-admin
 //= require catarse-static
 //= require_self
 
